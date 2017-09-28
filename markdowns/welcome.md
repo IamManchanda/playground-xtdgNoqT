@@ -125,6 +125,5 @@ The `maxItems` variable is initialized, so its const declaration should work wit
 
 ## Thanks a lot…
 
-*  **_If you liked my article and also my passion for teaching, please don’t forget to follow me and also CodeBurst by clicking the links below._**
-*  **_If you would like to hire me for your next cool project, or just want to say hello… my twitter handle is_ **[**_@harmanmanchanda_**](http://bit.ly/tw-harry)** _for getting in touch with me! My DM’s are open to the public so just hit me up._**
+**_If you would like to hire me for your next cool project, or just want to say hello… my twitter handle is_ **[**_@harmanmanchanda_**](http://bit.ly/tw-harry)** _for getting in touch with me! My DM’s are open to the public so just hit me up._**
 
