@@ -2,6 +2,8 @@
 
 This article is Part 2 for the Series **“Modern ES6+ Javascript for those who know only a little about that old Javascript.”**
 
+Welcome back, In the previous article we covered an Introduction to this weird Language called JavaScript. Today we will learn about `var`, `const` and `let`. 
+
 **_Credits:_** _This Part of the Article series has been referred from the_ [**_book_**](https://leanpub.com/understandinges6/) **_“_**_Understanding ECMAScript 6 by Nicholas C. Zakas_**_”._**
 
 Traditionally, the way variable declarations work has been that weird part of programming in JavaScript. Variables creation depend on how you declare them, and **ES6** offers options to make controlling scope easier. This article will look to clear on why those classic `var` declarations can be confusing and will also introduce block-level bindings aka `const` and `let`.
@@ -122,6 +124,8 @@ const name;
 ```
 
 The `maxItems` variable is initialized, so its const declaration should work without any problems. The `name` variable, however, would cause a syntax error if you tried to run the program containing this code, because name is not initialized.
+
+To be continued… Thanks for reading this through, Part 3 is [here](https://tech.io/playgrounds/6618/modern-es6-javascript-pt--3).
 
 ## Thanks a lot…
 
