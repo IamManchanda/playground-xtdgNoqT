@@ -2,7 +2,7 @@
 
 This article is Part 2 for the Series **“Modern ES6+ Javascript for those who know only a little about that old Javascript.”**
 
-Welcome back, In the previous article we covered an Introduction to this weird Language called JavaScript. Today we will learn about `var`, `const` and `let`. 
+Welcome back, In the [previous](https://tech.io/playgrounds/6439/modern-es6-javascript-pt--1) article we covered an Introduction to this weird Language called JavaScript. Today we will learn about `var`, `const` and `let`. 
 
 **_Credits:_** _This Part of the Article series has been referred from the_ [**_book_**](https://leanpub.com/understandinges6/) **_“_**_Understanding ECMAScript 6 by Nicholas C. Zakas_**_”._**
 
